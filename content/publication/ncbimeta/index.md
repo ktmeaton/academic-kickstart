@@ -66,5 +66,5 @@ projects: [content/project/ncbimeta/]
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: [content/slides/ncbimeta/]
+slides: ncbimeta
 ---
