@@ -99,7 +99,7 @@ address = {street = "CNH 412, 1280 Main Street W", city = "Hamilton", region = "
 coordinates = {latitude = "43.263736", longitude = "-79.918399"}
 
 # Directions for visitors to locate you.
-directions = "Enter Chester New Hall and take the elevator to Office 412 on Floor 4"
+# directions = "Enter Chester New Hall and take the elevator to Office 412 on Floor 4"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -111,9 +111,7 @@ directions = "Enter Chester New Hall and take the elevator to Office 412 on Floo
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "envelope", icon_pack = "fas", name = "Email", link = "mailto:ktmeaton@gmail.com"},
-  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/ktmeaton"},
-  {icon = "github", icon_pack = "fab", name = "Github", link = "https://github.com/ktmeaton"},
+  {icon = "envelope", icon_pack = "fas", name = "Get in touch by email", link = "mailto:ktmeaton@gmail.com"},
   ]
 
 ############################
