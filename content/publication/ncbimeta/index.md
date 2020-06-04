@@ -43,7 +43,7 @@ url_code: 'https://github.com/ktmeaton/NCBImeta'
 url_dataset: 'https://zenodo.org/record/3627329#.XtkEjkVKiUk'
 url_poster: ''
 url_project: 'https://ktmeaton.github.io/NCBImeta/'
-url_slides: ''
+url_slides: 'https://ktmeaton.github.io/slides/ncbimeta/ncbimeta_2019-09-16.pdf'
 url_source: ''
 url_video: ''
 
@@ -66,5 +66,5 @@ projects: [content/project/ncbimeta/]
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ncbimeta
+# slides: ncbimeta
 ---
