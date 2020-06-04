@@ -56,7 +56,7 @@ We find no evidence of significant differences in genetic diversity spatially or
 The mitochondrial genomes of both medieval Londoners and medieval Danes suggest high mitochondrial diversity before, during and after the Black Death. While our mitochondrial genomic data lack geographically correlated signals, these data could be the result of high, continual female migration before and after the Black Death or may simply indicate a large female effective population size unaffected by the upheaval of the medieval period. Either scenario suggests a genetic resiliency in areas of northwestern medieval Europe."
 
 # Summary. An optional shortened abstract.
-summary:
+summary: "This study uses ancient DNA (aDNA) isolated from skeletal remains to examine whether evidence for large‐scale population movement can be gleaned from the complete mitochondrial genomes of 264 medieval individuals from England (London) and Denmark."
 
 tags:
 - Ancient DNA
