@@ -2,11 +2,11 @@
 title: "NCBImeta: efficient and comprehensive metadata retrieval from NCBI databases"
 authors:
 - admin
-date: "2015-09-01T00:00:00Z"
+date: "2020-03-02"
 doi: "10.21105/joss.01990"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-03-02"
+publishDate: "2020-06-04"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
