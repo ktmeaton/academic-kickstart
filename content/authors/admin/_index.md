@@ -34,7 +34,7 @@ education:
     year: Current
   - course: BA in Anthropology
     institution: University of Alberta
-    year: 2008
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
