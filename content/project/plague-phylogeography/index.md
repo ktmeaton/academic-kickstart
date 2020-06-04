@@ -1,5 +1,5 @@
 ---
-title: Plague Phylogeography
+title: Plague Phylogeny
 summary: Phylogeography of Yersinia pestis.
 tags:
   - NGS
