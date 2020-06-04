@@ -13,7 +13,7 @@ authors:
 - Hendrik N. Poinar
 - Tracy L. Prowse
 
-date: "2018-08"
+date: "2018-08-01"
 doi: "10.1016/j.jasrep.2018.04.036"
 
 # Schedule page publish date (NOT publication's date).
