@@ -60,7 +60,7 @@ links:
 url_code: "https://github.com/ktmeaton/plague-phylogeography"
 url_pdf: ""
 url_slides: "https://nextstrain.org/community/narratives/ktmeaton/plague-phylogeography/DHSI2020Remote"
-url_video: "https://drive.google.com/open?id=164FNCjTIrHnvhMPqlRIMEgCzdC3IxgQS"
+url_video: "http://omekas.library.uvic.ca/files/original/bd5516ed57c38f589a6054df32e9aafcdfb1aeb9.mp4"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
