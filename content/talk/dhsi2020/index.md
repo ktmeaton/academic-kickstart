@@ -49,7 +49,7 @@ tags:
 featured: true
 
 image:
-  caption: 'Image credit: [**NextStrain**](https://raw.githubusercontent.com/ktmeaton/slides/master/dhsi2020/dhsi2020_title.png)'
+  caption: '[Visit the **Live Exhibit**](https://nextstrain.org/community/narratives/ktmeaton/plague-phylogeography/DHSI2020Remote)'
   focal_point: Right
 
 links:
@@ -81,4 +81,10 @@ projects:
 math: false
 ---
 
-<iframe width="560" height="315" src="http://omekas.library.uvic.ca/files/original/bd5516ed57c38f589a6054df32e9aafcdfb1aeb9.mp4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## DHSI2020 Video Presentation
+
+<iframe width="150%" height="600px" src="http://omekas.library.uvic.ca/files/original/bd5516ed57c38f589a6054df32e9aafcdfb1aeb9.mp4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Presentation Exhibit
+
+<iframe src="https://nextstrain.org/community/narratives/ktmeaton/plague-phylogeography/plagueSCDS2020Remote" <="" iframe="" width="150%" height="600px" frameborder="1"></iframe>
