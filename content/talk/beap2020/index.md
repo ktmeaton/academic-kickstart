@@ -36,7 +36,7 @@ tags:
 featured: false
 
 image:
-  # caption: 'Image credit: [**NextStrain**](https://raw.githubusercontent.com/ktmeaton/slides/master/dhsi2020/dhsi2020_title.png)'
+  caption: '[View **Slides**](https://ktmeaton.github.io/slides/beap2020/beap_2020-01-30.pdf)'
   focal_point: Right
 
 links:
@@ -46,7 +46,7 @@ links:
 #  url: https://twitter.com/ktmeaton
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://ktmeaton.github.io/slides/beap2020/beap_2020-01-30.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
