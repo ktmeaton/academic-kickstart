@@ -23,7 +23,7 @@ publication_types: ["4"]
 # Publication name and optional abbreviated publication name.
 publication: "Technical Report"
 
-summary: "Techincal report on the ancient DNA analyses of four Roman individuals from London."
+summary: "Technical report on the ancient DNA analyses of four Roman individuals from London."
 
 tags:
 - Roman

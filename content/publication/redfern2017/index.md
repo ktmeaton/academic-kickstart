@@ -37,7 +37,7 @@ tags:
 - Stable Isotopes
 - Diet
 - Mobility
-- Funerary;
+- Funerary
 - Grave Goods
 - Migration
 
