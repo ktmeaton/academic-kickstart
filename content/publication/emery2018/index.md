@@ -7,7 +7,7 @@ authors:
 - Robert J. Stark
 - Jennifer Klunk
 - Jessica Hider
-- Katherine Eaton
+- admin
 - Emil Karpinski
 - Henry P. Schwarcz
 - Hendrik N. Poinar

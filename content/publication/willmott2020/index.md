@@ -38,10 +38,6 @@ tags:
 
 featured: false
 
-image:
-  caption: 'Image credit: [**NextStrain**](https://raw.githubusercontent.com/ktmeaton/slides/master/dhsi2020/dhsi2020_title.png)'
-  focal_point: Right
-
 # links:
 # - name: ""
 #   url: ""
