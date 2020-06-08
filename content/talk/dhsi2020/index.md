@@ -82,9 +82,9 @@ math: false
 ---
 
 ## DHSI2020 Video Presentation
-[External Link to Video](http://omekas.library.uvic.ca/files/original/bd5516ed57c38f589a6054df32e9aafcdfb1aeb9.mp4)
+[External Link to Video](https://omekas.library.uvic.ca/files/original/bd5516ed57c38f589a6054df32e9aafcdfb1aeb9.mp4)
 
-<iframe src="http://omekas.library.uvic.ca/files/original/bd5516ed57c38f589a6054df32e9aafcdfb1aeb9.mp4" <="" iframe="" width="100%" height="400px" frameborder="1" allowfullscreen></iframe>
+<iframe src="https://omekas.library.uvic.ca/files/original/bd5516ed57c38f589a6054df32e9aafcdfb1aeb9.mp4" <="" iframe="" width="100%" height="400px" frameborder="1" allowfullscreen></iframe>
 
 ## Presentation Exhibit
 
