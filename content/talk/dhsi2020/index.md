@@ -83,9 +83,11 @@ math: false
 
 ## DHSI2020 Video Presentation
 [External Link to Video](http://omekas.library.uvic.ca/files/original/bd5516ed57c38f589a6054df32e9aafcdfb1aeb9.mp4)
-<iframe width="100%" height="400px" src="http://omekas.library.uvic.ca/files/original/bd5516ed57c38f589a6054df32e9aafcdfb1aeb9.mp4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe src="http://omekas.library.uvic.ca/files/original/bd5516ed57c38f589a6054df32e9aafcdfb1aeb9.mp4" <="" iframe="" width="100%" height="400px" frameborder="1" allowfullscreen></iframe>
 
 ## Presentation Exhibit
+
 [External Link to Exhibit](https://nextstrain.org/community/narratives/ktmeaton/plague-phylogeography/plagueSCDS2020Remote)
 
 <iframe src="https://nextstrain.org/community/narratives/ktmeaton/plague-phylogeography/plagueSCDS2020Remote" <="" iframe="" width="125%" height="600px" frameborder="1"></iframe>
