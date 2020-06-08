@@ -88,4 +88,4 @@ math: false
 ## Presentation Exhibit
 [External Link to Exhibit](https://nextstrain.org/community/narratives/ktmeaton/plague-phylogeography/plagueSCDS2020Remote)
 
-<iframe src="https://nextstrain.org/community/narratives/ktmeaton/plague-phylogeography/plagueSCDS2020Remote" <="" iframe="" width="150%" height="600px" frameborder="1"></iframe>
+<iframe src="https://nextstrain.org/community/narratives/ktmeaton/plague-phylogeography/plagueSCDS2020Remote" <="" iframe="" width="125%" height="600px" frameborder="1"></iframe>
