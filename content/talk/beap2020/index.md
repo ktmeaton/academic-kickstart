@@ -67,3 +67,4 @@ projects:
 # Enable math on this page?
 math: false
 ---
+Template Attribution: [Free Google Slides Template](https://freegoogleslidestemplates.com/)
