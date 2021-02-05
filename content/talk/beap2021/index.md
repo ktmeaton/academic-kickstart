@@ -1,6 +1,5 @@
 ---
-title: "Plague Phylogeography"
-subtitle: Novel Synthesis and Geospatial Analysis
+title: "Plague Phylogeography: Novel Synthesis and Geospatial Analysis"
 event: Bioinformatics, Evolution, Anthropology, and Population Genetics (BEAP) Seminar
 
 location: McMaster University

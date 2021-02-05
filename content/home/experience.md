@@ -19,6 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Research Assistant, Computational"
+  company = "McMaster University, Ancient DNA Centre"
+  company_url = "https://socialsciences.mcmaster.ca/mcmaster-ancient-dna-centre"
+  location = "Hamilton, ON"
+  date_start = "2020-09-01"
+  date_end = "2020-12-30"
+  description = """
+  Bioinformatic Analysis, Manuscript Preparation
+  """
+
+[[experience]]
   title = "Graduate Resident"
   company = "Lewis & Ruth Sherman Centre for Digital Scholarship"
   company_url = "https://scds.ca/"

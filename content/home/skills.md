@@ -55,9 +55,9 @@ subtitle = ""
   name = "R"
 
 [[feature]]
-  icon = "file-alt"
-  icon_pack = "fas"
-  name = "Markup"
+  icon = "html5"
+  icon_pack = "fab"
+  name = "HTML"
 
 
 
