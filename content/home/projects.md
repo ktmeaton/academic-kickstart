@@ -33,6 +33,10 @@ subtitle = ""
      name = "NGS"
      tag = "NGS"
 
+  [[content.filter_button]]
+     name = "Github"
+     tag = "Github"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

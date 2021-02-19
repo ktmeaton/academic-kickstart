@@ -1,6 +1,6 @@
 ---
 title: Plague Phylogeny
-summary: Phylogeography of Yersinia pestis.
+summary: Global spread and evolution of plague.
 tags:
   - NGS
   - Database
