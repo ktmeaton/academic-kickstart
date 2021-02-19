@@ -1,6 +1,6 @@
 ---
 title: Flowdash-Bio
-summary: Workflow dashboard for bioinformatics
+summary: Workflow dashboard for bioinformatics.
 tags:
   - NGS
   - Database
