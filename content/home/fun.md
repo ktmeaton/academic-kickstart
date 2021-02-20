@@ -27,7 +27,7 @@ subtitle = ""
 
   [[content.filter_button]]
      name = "Art"
-     tag = "art"
+     tag = "Art"
 
   [[content.filter_button]]
      name = "Music"

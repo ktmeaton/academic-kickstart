@@ -1,6 +1,6 @@
 ---
 title: pixilart
-summary: Daily drawing challenges and logos.
+summary: Daily drawing challenges, logos, and avatars.
 tags:
   - Art
 date: "2021-02-18"
