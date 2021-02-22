@@ -36,7 +36,7 @@ tags:
 featured: false
 
 image:
-  caption: '[View **Slides**](https://ktmeaton.github.io/slides/beap2020/beap_2020-01-30.pdf)'
+  caption: '[View **Slides**](https://ktmeaton.github.io/slides/2020/01/30_BEAP.pdf)'
   focal_point: Right
 
 links:
@@ -46,7 +46,7 @@ links:
 #  url: https://twitter.com/ktmeaton
 url_code: ""
 url_pdf: ""
-url_slides: "https://ktmeaton.github.io/slides/beap2020/beap_2020-01-30.pdf"
+url_slides: "https://ktmeaton.github.io/slides/2020/01/30_BEAP.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
