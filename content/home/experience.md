@@ -19,14 +19,28 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Research Assistant, Computational"
+  title = "Computational Biologist"
+  company = "National Microbiology Lab, PHAC"
+  company_url = "https://www.canada.ca/en/public-health/programs/national-microbiology-laboratory.html"
+  location = "Winnipeg, MB"
+  date_start = "2021-12-08"
+  date_end = "2023-03-01"
+  description = """
+  - Bioinformatic Analysis and Visualization of SARS-CoV-2 Genomes.
+  """
+
+[[experience]]
+  title = "PhD Candidate"
   company = "McMaster University, Ancient DNA Centre"
   company_url = "https://socialsciences.mcmaster.ca/mcmaster-ancient-dna-centre"
   location = "Hamilton, ON"
-  date_start = "2020-09-01"
-  date_end = "2020-12-30"
+  date_start = "2014-08-30"
+  date_end = "2022-01-30"
   description = """
-  Bioinformatic Analysis, Manuscript Preparation
+  - Research Assistant (Labwork, Computational)
+  - Teaching Assistant (Anthropology, Biology)
+  - DNA Extraction, Library Preparation, Genome Sequencing
+  - Manuscript Preparation
   """
 
 [[experience]]
@@ -37,29 +51,20 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = "2020-04-30"
   description = """
-  Enhance interdisciplinary research connections and engage in digital scholarship initiatives and communities.
+  - Formation of the new McMaster Digital Pedagogy Working Group.
+  - Engage in digital scholarship initiatives and communities.
+  - Enhance interdisciplinary research connections..
   """
 
 [[experience]]
-  title = "Research Assistant, Computational"
-  company = "McMaster University, Ancient DNA Centre"
-  company_url = "https://socialsciences.mcmaster.ca/mcmaster-ancient-dna-centre"
+  title = "Graduate Fellow"
+  company = "MacData Instituete"
+  company_url = "https://macdata.mcmaster.ca/"
   location = "Hamilton, ON"
-  date_start = "2019-09-01"
-  date_end = "2020-04-30"
+  date_start = "2017-11-01"
+  date_end = "2018-08-31"
   description = """
-  Bioinformatic Analysis, Manuscript Preparation
-  """
-
-[[experience]]
-  title = "Research Assistant, Labwork"
-  company = "McMaster University, Ancient DNA Centre"
-  company_url = "https://socialsciences.mcmaster.ca/mcmaster-ancient-dna-centre"
-  location = "Hamilton, ON"
-  date_start = "2014-06-01"
-  date_end = "2014-08-30"
-  description = """
-  DNA Extraction, NGS Library Preparation, Bacterial Genome Sequencing
+  - Software development for high-throughput genomic analyses.
   """
 
 [[experience]]
@@ -69,24 +74,21 @@ date_format = "Jan 2006"
   location = "Mississauga, ON"
   date_start = "2013-09-01"
   date_end = "2014-08-30"
-  description = "Annotation of genes associated with pigmentation in East Asian populations."
+  description = """
+  - Functional annotation of genes associated with pigmentation in East Asian populations.
+  """
 
 [[experience]]
-  title = "Summer Student"
-  company = "University of Alberta, Dept. of Surgery"
-  company_url = "https://www.ualberta.ca/surgery/index.html"
-  location = "Edmonton, AB"
-  date_start = "2012-05-01"
-  date_end = "2012-07-31"
-  description = "Immunodetection of genes involved in skeletal development."
-
-[[experience]]
-  title = "Volunteer"
+  title = "Volunteer & Summer Student"
   company = "University of Alberta, Dept. of Surgery"
   company_url = "https://www.ualberta.ca/surgery/index.html"
   location = "Edmonton, AB"
   date_start = "2011-09-01"
   date_end = "2013-01-01"
-  description = "Molecular biology assays and cell tissue culture, DNA sequence analysis."
+  description = """
+  - Molecular biology assays and cell tissue culture.
+  - DNA Sanger sequence analysis.
+  - Immunodetection of genes involved in skeletal development.
+  """
 
 +++
