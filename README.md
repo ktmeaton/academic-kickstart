@@ -32,6 +32,14 @@ You can choose from one of the following four methods to install:
 
 Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
 
+## Run
+
+```bash
+git submodule update themes/academic
+bin/hugo server
+```
+
+
 ## Ecosystem
 
 * **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
