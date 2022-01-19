@@ -2,7 +2,7 @@
 title: NCBImeta
 summary: Efficient and comprehensive metadata acquisition from the NCBI databases.
 tags:
-  - NGS
+  - Genomics
   - Database
 date: "2020-06-04"
 

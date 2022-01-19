@@ -74,8 +74,7 @@ url_video: "http://omekas.library.uvic.ca/files/original/bd5516ed57c38f589a6054d
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- plague-phylogeography
+projects: ["plague", "ncbimeta"]
 
 # Enable math on this page?
 math: false

@@ -1,9 +1,10 @@
 ---
-title: Plague Phylogeny
-summary: Global spread and evolution of plague.
+title: Plague
+summary: Global spread and evolution of the plague bacterium, Yersinia pestis.
 tags:
-  - NGS
+  - Genomics
   - Database
+  - Plague
 date: "2020-06-04"
 
 # Optional external URL for project (replaces project detail page).

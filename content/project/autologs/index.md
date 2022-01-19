@@ -2,7 +2,7 @@
 title: Autologs
 summary: Automatically create release notes and a changelog.
 tags:
-  - Git
+  - Software Development
   - Github
 date: "2021-02-18"
 

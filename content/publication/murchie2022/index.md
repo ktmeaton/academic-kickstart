@@ -43,7 +43,7 @@ tags:
   - Permafrost
   - Ancient Mitochondrial Genomes
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
