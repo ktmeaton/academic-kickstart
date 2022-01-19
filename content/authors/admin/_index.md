@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Anthropology
     institution: McMaster University
-    year: Current
+    year: 2022
   - course: BA in Anthropology
     institution: University of Alberta
     year: 2009
