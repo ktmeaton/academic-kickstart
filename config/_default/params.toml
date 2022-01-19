@@ -110,9 +110,9 @@ email = "ktmeaton@gmail.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "envelope", icon_pack = "fas", name = "Get in touch by email", link = "mailto:ktmeaton@gmail.com"},
-  ]
+# contact_links = [
+#  {icon = "envelope", icon_pack = "fas", name = "Get in touch by email", link = "mailto:ktmeaton@gmail.com"},
+#  ]
 
 ############################
 ## Social
